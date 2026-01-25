@@ -1,3 +1,0 @@
-flask>=1.0.0
-pymongo==3.5.1
-pyTelegramBotAPI==3.6.7
